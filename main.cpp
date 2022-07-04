@@ -4,7 +4,7 @@
 
 int main() {
     Hero hero;
-    hero.
+    hero.mn l,m
 
     return 0;
 }
